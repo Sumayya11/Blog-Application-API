@@ -1,5 +1,5 @@
 
-# Flask-JWT-Post-Comment-App
+# Blog Application API
 
 This is a Flask application with user authentication, post creation, and commenting features. The application uses JWT (JSON Web Tokens) for user authentication and Flask-SQLAlchemy for interacting with a PostgreSQL database.
 
