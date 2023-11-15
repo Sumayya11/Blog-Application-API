@@ -1,4 +1,3 @@
-# Task2
 
 # Flask-JWT-Post-Comment-App
 
