@@ -1,4 +1,4 @@
-flask
-Flask-SQLAlchemy
-jwt
-PyJWT
+
+Flask==2.0.2
+Flask-SQLAlchemy==3.0
+PyJWT==2.3.0
